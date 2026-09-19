@@ -1,4 +1,4 @@
-<img src="profile/logo.svg" alt="" width="64" height="64" />
+<img src="https://github.com/keenplaza-com/.github/raw/main/profile/logo.svg" alt="" width="64" height="64" />
 
 # KeenPlaza
 
